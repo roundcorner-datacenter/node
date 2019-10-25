@@ -6,6 +6,6 @@
     "test-package-with-one-dep": "0.0.0"
   },
   "devDependencies": {
-    "test-package": "0.0.0"
+    "test-package": "0.0.1"
   }
 }
